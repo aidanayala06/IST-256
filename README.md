@@ -1,1 +1,1 @@
-# IST-256
+# Wikipedia Assignment IST 256
