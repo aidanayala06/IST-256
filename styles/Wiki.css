@@ -1,0 +1,57 @@
+body {
+    font-family: sans-serif;
+}
+
+h1, h3 {
+    font-family: "Times New Roman"
+}
+
+h2 {
+    font-family: "Times New Roman"
+}
+
+.main {
+    margin: 20px;
+}
+
+.main p {
+    line-height: 1.5;
+}
+
+.main table {
+    float: right;
+    width: 20%;
+    border: 1px solid #000000;
+    padding: 10px;
+    margin-left: 20px;
+    margin-top: 0;
+    border-collapse: collapse;
+
+}
+
+.main table th {
+    font-size: 16px;
+    padding: 5px;
+    text-align: center;
+}
+
+.main table img {
+    width: 100%;
+    height: auto;
+}
+
+.date {
+    text-align: center;
+    font-size: 14px;
+    padding: 5px;
+}
+
+.cell {
+    font-size: 14px;
+    text-align: left;
+    padding: 8px;
+}
+
+hr {
+    margin: 20px 0;
+}
